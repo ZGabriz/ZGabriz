@@ -1,6 +1,8 @@
+<!---
 #You can change the time if you want it to go faster.    \
 #this script only works for windows.                    \
 #THE CONCATENATION MAY BE WRONG                         \
+--->
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 _______________________________
 import pyautogui       
